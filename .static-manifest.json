@@ -1,0 +1,14 @@
+{
+    "domain": "santosgcpaintingllc.com",
+    "base_url": "http:\/\/santosgcpaintingllc.com",
+    "pages": 9,
+    "assets": 10,
+    "total_files": 19,
+    "total_size_mb": 1.77,
+    "output_dir": "\/tmp\/static-export\/santosgcpaintingllc.com",
+    "pages_failed": [
+        "http:\/\/santosgcpaintingllc.com\/wp-sitemap.xml"
+    ],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 16:19:32"
+}
